@@ -1,6 +1,8 @@
 Revision history for Perl extension Web-Library-Bootstrap
 
 {{$NEXT}}
+
+0.04  2013-08-11 21:15:07 CEST
     [Improvements]
         - Converted to Dist::Milla
 
