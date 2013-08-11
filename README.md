@@ -11,14 +11,14 @@ Web::Library::Bootstrap - Distribution wrapper around Bootstrap
 
 This is a distribution wrapper around Twitter Bootstrap. It enables you to
 include the client-side library in multiple Web application projects with very
-little effort. See [Web::Library](https://metacpan.org/module/Web::Library) for the general concept and how to use it
-with [Catalyst](https://metacpan.org/module/Catalyst).
+little effort. See [Web::Library](http://search.cpan.org/perldoc?Web::Library) for the general concept and how to use it
+with [Catalyst](http://search.cpan.org/perldoc?Catalyst).
 
 # LIBRARY VERSIONS
 
 The following versions are available. For each version all included files are
 listed. Files marked with an asterisk are included in that versions' asset
-list - see [Web::Library](https://metacpan.org/module/Web::Library)'s `css_link_tags_for()` and `script_tags_for()`
+list - see [Web::Library](http://search.cpan.org/perldoc?Web::Library)'s `css_link_tags_for()` and `script_tags_for()`
 methods for an explanation of the concept.
 
 - Version 2.3.0
